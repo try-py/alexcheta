@@ -46,10 +46,10 @@ logo = """
 \033[1;91m██   ██ \033[1;96m███████ \033[1;92m███████ \033[1;93m██   ██  
 \033[1;97m-------------------------------------------
 \033[1;94m? HACKING IS NOT A CRIME IT’S A GAME Father Of Facebook Alex Prince 
-\033[1;94m? AUTHOR  :\033[1;92m Alex Prince 
+\033[1;94m? AUTHOR  :\033[1;92m Ahmer x Fadi x Basit x Waheed x Kashif  
 \033[1;94m? GANG    :\033[1;92m Hitler Family
-\033[1;94m? WHATSAPP:\033[1;92m +923171168085 
-\033[1;94m? WARNING :\033[1;92m DON'T COPY MY SCRIPT 
+\033[1;94m? WHATSAPP:\033[1;92m +92 314 8104277
+\033[1;94m? WARNING :\033[1;92m DON'T COPY MY SCRIPT ONLY HITTLER RULEX
 \033[1;97m------------------------------------------- """ 
 
 def reg():
