@@ -85,7 +85,7 @@ def ip():
     print logo
     print '\tCollecting device info'
     try:
-        ipinfo = requests.get('https://raw.githubusercontent.com/try-py/arain.py/main/server.txt')
+        ipinfo = requests.get('https://raw.githubusercontent.com/a-py/arain.py/main/server.txt')
         z = json.loads(ipinfo.text)
         ips = z['query']
         country = z['country']
