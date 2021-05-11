@@ -58,7 +58,7 @@ def reg():
     except (KeyError, IOError):
         reg2()
 
-    r = requests.get('https://github.com/try-py/arain.py/edit/main/server.txt').text
+    r = requests.get('https://raw.githubusercontent.com/try-py/arain.py/main/server.txt').text
     if to in r:
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
