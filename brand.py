@@ -745,7 +745,7 @@ def c_s():
     print 47 * '-'
     print ''
     print ' \033[1;92mCrack Done'
-    print '\033[1;92m Total CP/OK:' + str(len(oks)) + '/' + str(len(cps))
+    print '\033[1;92m Total CP AND OK :' + str(len(oks)) + '/' + str(len(cps))
     print ''
     print 47 * '-'
     print ''
