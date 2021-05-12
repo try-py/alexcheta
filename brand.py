@@ -46,7 +46,7 @@ logo = """
 \033[1;91m██   ██ \033[1;96m███████ \033[1;92m███████ \033[1;93m██   ██  
 \033[1;97m-------------------------------------------
 \033[1;94m? HACKING IS NOT A CRIME IT’S A GAME 
-\033[1;94m? AUTHOR  :\033[1;92m Alex Prince x Fadi Tatta
+\033[1;94m? AUTHOR  :\033[1;92m Alex Prince x Fadi Arain
 \033[1;94m? GANG    :\033[1;92m Hitler Family
 \033[1;94m? WHATSAPP:\033[1;92m +923171168085 
 \033[1;94m? WARNING :\033[1;92m DON'T COPY MY SCRIPT 
@@ -745,7 +745,7 @@ def c_s():
     print 47 * '-'
     print ''
     print ' \033[1;92mCrack Done'
-    print '\033[1;92m Total Ok/Cp:' + str(len(oks)) + '/' + str(len(cps))
+    print '\033[1;92m Total CP/OK:' + str(len(oks)) + '/' + str(len(cps))
     print ''
     print 47 * '-'
     print ''
